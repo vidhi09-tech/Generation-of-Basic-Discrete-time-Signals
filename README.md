@@ -1,10 +1,13 @@
 # Generation-of-Basic-Discrete-time-Signals
 Digital signal processing
-	Generation of unit impulse signal :
+	
+Generation of unit impulse signal :
   ![image](https://user-images.githubusercontent.com/63573906/114307242-6614b000-9afc-11eb-9d23-2047496ba33c.png)
-	Generation of unit step signal :
+
+Generation of unit step signal :
   ![image](https://user-images.githubusercontent.com/63573906/114307257-72007200-9afc-11eb-9dda-5aa07bf99dbd.png)
-	Generation of ramp signal :
+	
+Generation of ramp signal :
   ![image](https://user-images.githubusercontent.com/63573906/114307267-7d539d80-9afc-11eb-853a-49cfc4c41537.png)
 
 Generation of sinusoidal signal :
